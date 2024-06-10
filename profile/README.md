@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Ibrahim.
 ![](https://komarev.com/ghpvc/?username=ibrahimmansur4&color=grey)
 
-- 🔭 I am a soon-to-be electrical engineer.
-- 🌱 I’m currently doing projects on robotics and embedded systems.
+- 🔭 I am an electrical engineer.
+- 🌱 This organization hosts projects related to embedded systems.
 
 
 
